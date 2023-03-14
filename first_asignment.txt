@@ -1,0 +1,9 @@
+1. Who developed Python programming language?
+Ans. Guido van Rossum developed python programming language.
+
+2. Which type of programming does Python support?
+Ans. Python is a interpreted programming language. 
+     Python supports Object-oriented programming and
+     structured programming and many of their features
+     support functional programming and aspect-oriented 
+     programming (including metaprogramming and metaobjects).
